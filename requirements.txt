@@ -1,7 +1,7 @@
 setuptools
 Django
-music_metadata_territories>=20.9
-music_metadata_edi>=20.9
+music_metadata_territories
+music_metadata_edi
 whitenoise
 gunicorn
 openpyxl
